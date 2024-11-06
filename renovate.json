@@ -5,15 +5,15 @@
   ],
   "packageRules": [
     {
+      "allowedVersions": "<5.0",
+      "matchPackageNames": [
+        "hashicorp/terraform-provider-google"
+      ]
+    },
+    {
       "allowedVersions": "<=1.8.0",
       "matchPackageNames": [
         "hashicorp/terraform"
-      ]
-    },
-      {
-      "allowedVersions": "<6.0",
-      "matchPackageNames": [
-        "hashicorp/terraform-provider-google"
       ]
     }
   ]
