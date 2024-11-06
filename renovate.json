@@ -15,6 +15,12 @@
       "matchPackageNames": [
         "hashicorp/terraform"
       ]
+    },
+          {
+      "allowedVersions": "<2.0",
+      "matchPackageNames": [
+        "hashicorp/kubernetes"
+      ]
     }
   ]
 }
