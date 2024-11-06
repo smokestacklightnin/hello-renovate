@@ -11,7 +11,7 @@
       ]
     },
     {
-      "allowedVersions": "<=1.7.0",
+      "allowedVersions": "<=1.6.0",
       "matchPackageNames": [
         "hashicorp/terraform"
       ]
