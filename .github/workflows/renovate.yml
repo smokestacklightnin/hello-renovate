@@ -16,4 +16,4 @@ jobs:
         with:
           token: ${{ secrets.RENOVATE_TOKEN }}
         env:
-          RENOVATE_REPOSITORIES: ["hello-reinforcement"]
+          RENOVATE_REPOSITORIES: '["hello-reinforcement"]'
