@@ -7,7 +7,7 @@
     {
       "allowedVersions": "<5.0",
       "matchPackageNames": [
-        "hashicorp/terraform-provider-google"
+        "hashicorp/google"
       ]
     },
     {
