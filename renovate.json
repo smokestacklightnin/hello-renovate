@@ -17,7 +17,7 @@
       ]
     },
     {
-      "allowedVersions": "<2.0",
+      "allowedVersions": "<3.0",
       "matchPackageNames": [
         "hashicorp/kubernetes"
       ]
