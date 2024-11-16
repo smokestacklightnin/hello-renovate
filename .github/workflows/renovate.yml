@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.RENOVATE_TOKEN }}
           # configurationFile: renovate-self-hosted-config.json
+          configurationFile: renovate.json
         env:
           RENOVATE_REPOSITORIES: "smokestacklightnin/hello-renovate"
           RENOVATE_DRY_RUN: "null"
